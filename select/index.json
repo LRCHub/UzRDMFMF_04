@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "死んでしまったのだろうか",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-17T17:45:18.718418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか - self cover",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/01_死んでしまったのだろうか_-_self_cover_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/02_死んでしまったのだろうか_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか",
+      "artist": "Guiano/v flower",
+      "has_synced": true,
+      "path": "select/03_死んでしまったのだろうか_Guiano_v_flower.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか(2nd ver.)",
+      "artist": "Guiano/花譜",
+      "has_synced": true,
+      "path": "select/04_死んでしまったのだろうか(2nd_ver.)_Guiano_花譜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか",
+      "artist": "神田沙也加",
+      "has_synced": true,
+      "path": "select/05_死んでしまったのだろうか_神田沙也加.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか",
+      "artist": "あらき",
+      "has_synced": true,
+      "path": "select/06_死んでしまったのだろうか_あらき.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか",
+      "artist": "神田沙也加",
+      "has_synced": true,
+      "path": "select/07_死んでしまったのだろうか_神田沙也加.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか(self cover)",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/08_死んでしまったのだろうか(self_cover)_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "死んでしまったのだろうか (2nd Ver.)",
+      "artist": "ぐいあの feat. 花譜",
+      "has_synced": true,
+      "path": "select/09_死んでしまったのだろうか_(2nd_Ver.)_ぐいあの_feat._花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死んでしまったのだろうか",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_死んでしまったのだろうか_Guiano.txt"
+    }
+  ]
+}
